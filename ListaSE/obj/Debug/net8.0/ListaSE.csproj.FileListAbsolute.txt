@@ -1,0 +1,14 @@
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\bin\Debug\net8.0\ListaSE.exe
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\bin\Debug\net8.0\ListaSE.deps.json
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\bin\Debug\net8.0\ListaSE.runtimeconfig.json
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\bin\Debug\net8.0\ListaSE.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\bin\Debug\net8.0\ListaSE.pdb
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ListaSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ListaSE.AssemblyInfoInputs.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ListaSE.AssemblyInfo.cs
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ListaSE.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ListaSE.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\refint\ListaSE.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ListaSE.pdb
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ListaSE.genruntimeconfig.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\ADS-AMS\Estruturas de Dados\Aulas\Aula6\ListaSE\obj\Debug\net8.0\ref\ListaSE.dll
